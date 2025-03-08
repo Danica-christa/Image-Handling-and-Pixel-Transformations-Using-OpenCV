@@ -213,9 +213,11 @@ plt.show()
 
 ## Output:
 - **i)** Read and Display an Image.
+
 1.Read 'Eagle_in_Flight.jpg' as grayscale and display:
   
   ![Screenshot 2025-03-08 143945](https://github.com/user-attachments/assets/391a0f74-603f-40c8-971c-0fc23b67eb88)
+  
 2.Save image as PNG and display:
 
   ![Screenshot 2025-03-08 144146](https://github.com/user-attachments/assets/64a9a1a3-5c17-4a4f-90e8-b86b8558baa2)
@@ -232,17 +234,20 @@ plt.show()
 
   ![image](https://github.com/user-attachments/assets/9ed11511-4037-48d8-b023-e87625be8762)
 
-- **ii)** Adjust Image Brightness.
+**ii)** Adjust Image Brightness.
+
 1.Create brighter and darker images and display:
 
   ![Screenshot 2025-03-08 144608](https://github.com/user-attachments/assets/8f15a39c-7d10-4a51-b17b-378b3574d315)
 
-- **iii)** Modify Image Contrast.
+**iii)** Modify Image Contrast.
+
 Modify contrast using scaling factors 1.1 and 1.2:
 
 ![Screenshot 2025-03-08 144717](https://github.com/user-attachments/assets/317766a1-d145-486b-acc3-6f9213514aa1)
 
-- **iv)** Generate Third Image Using Bitwise Operations.
+**iv)** Generate Third Image Using Bitwise Operations.
+  
 1.Split 'Boy.jpg' into B, G, R components and display:
 
 ![Screenshot 2025-03-08 144837](https://github.com/user-attachments/assets/c5e8d41c-dbd9-4052-ba93-8172c61ab7cc)
